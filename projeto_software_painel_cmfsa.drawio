@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T13:29:52.330Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tlw2T7QbRXOiVHIuSL7R" version="21.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-19T13:30:26.500Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XrOZMIvUqYeL3jA4eCPA" version="21.1.8" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="iPba7xZtTDLFOuLJxuws-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="iPba7xZtTDLFOuLJxuws-96">
           <mxGeometry y="60" width="550" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iPba7xZtTDLFOuLJxuws-96">
+          <mxGeometry y="370" width="790" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iPba7xZtTDLFOuLJxuws-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="620" y="640.25" width="240" height="420" as="geometry" />
