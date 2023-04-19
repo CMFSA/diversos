@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T12:01:31.624Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oT_H7zxvRakRTTardnpb" version="21.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-19T12:03:27.289Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="F1woWHuFHERrEzhh_VnL" version="21.1.8" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="127" y="182.75" width="33" height="17.49" as="geometry" />
         </mxCell>
         <mxCell id="qZJ-vaLKK2MRvVnL0MQR-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Data/hora&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;00:00&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="540" y="450" width="90" height="50" as="geometry" />
+          <mxGeometry x="660" y="331.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qZJ-vaLKK2MRvVnL0MQR-21" value="Nome do Edil&lt;br&gt;Nome do Edil&lt;br&gt;Nome do Edil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="177" y="163.25" width="130" height="56.75" as="geometry" />
@@ -180,6 +180,15 @@
         </mxCell>
         <mxCell id="iPba7xZtTDLFOuLJxuws-26" value="Nome do Edil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397" y="390.25" width="130" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_do_Democratas_at%C3%A9_2018.png;" vertex="1" parent="1">
+          <mxGeometry x="343.48" y="398.5" width="40.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="210" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-30" value="Nome do Edil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="440.25" width="130" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
