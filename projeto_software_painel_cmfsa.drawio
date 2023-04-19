@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T11:59:49.189Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XUy4nmrJ49IwWVjq2QPW" version="21.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-19T12:01:31.624Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oT_H7zxvRakRTTardnpb" version="21.1.8" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,15 @@
         </mxCell>
         <mxCell id="iPba7xZtTDLFOuLJxuws-23" value="Nome do Edil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397" y="340.25" width="130" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogdomaxsilva.com.br/wp-content/uploads/2020/08/avante-1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="337.15999999999997" y="343.63" width="53.67" height="40.25" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="210" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iPba7xZtTDLFOuLJxuws-26" value="Nome do Edil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="390.25" width="130" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
