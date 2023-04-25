@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T15:02:45.387Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="96lb6KOcszik_gyiQCNU" version="21.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T15:05:06.523Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fmHq6LNFxVW5kLsW6ZP6" version="21.2.0" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQBFcpW1dO7Ns_XCAuKK" name="telas - painel">
-    <mxGraphModel dx="1197" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
         <mxCell id="liqr3VS8U3PzuNp7M2xu-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
           <mxGeometry width="870.0000000000001" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liqr3VS8U3PzuNp7M2xu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
+        <mxCell id="liqr3VS8U3PzuNp7M2xu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
           <mxGeometry y="60" width="630" height="340" as="geometry" />
         </mxCell>
         <mxCell id="liqr3VS8U3PzuNp7M2xu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
@@ -247,7 +247,7 @@
         <mxCell id="liqr3VS8U3PzuNp7M2xu-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_do_Democratas_at%C3%A9_2018.png;fontStyle=4" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
           <mxGeometry x="524.1898734177215" y="425.01" width="40.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="liqr3VS8U3PzuNp7M2xu-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;fontColor=none;noLabel=1;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
+        <mxCell id="liqr3VS8U3PzuNp7M2xu-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=none;noLabel=1;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
           <mxGeometry x="630" y="60" width="240" height="340" as="geometry" />
         </mxCell>
         <mxCell id="liqr3VS8U3PzuNp7M2xu-28" value="" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;arcSize=6;fontColor=#000000;glass=0;fillStyle=solid;gradientColor=none;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-13">
@@ -301,7 +301,7 @@
         <mxCell id="liqr3VS8U3PzuNp7M2xu-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
           <mxGeometry width="870.0000000000001" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liqr3VS8U3PzuNp7M2xu-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
+        <mxCell id="liqr3VS8U3PzuNp7M2xu-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
           <mxGeometry y="60" width="630" height="340" as="geometry" />
         </mxCell>
         <mxCell id="liqr3VS8U3PzuNp7M2xu-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
@@ -334,7 +334,7 @@
         <mxCell id="liqr3VS8U3PzuNp7M2xu-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_do_Democratas_at%C3%A9_2018.png;fontStyle=4" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
           <mxGeometry x="524.1898734177215" y="425.01" width="40.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="liqr3VS8U3PzuNp7M2xu-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
+        <mxCell id="liqr3VS8U3PzuNp7M2xu-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
           <mxGeometry x="630" y="60" width="240" height="340" as="geometry" />
         </mxCell>
         <mxCell id="liqr3VS8U3PzuNp7M2xu-57" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;PRESENTES: 22&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#cc0000&quot;&gt;AUSENTES: 03&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#00CC00;fontSize=11;container=0;" vertex="1" parent="liqr3VS8U3PzuNp7M2xu-42">
