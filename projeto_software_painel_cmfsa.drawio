@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T15:29:53.395Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1m81lxzLCm6klKyFOgBH" version="21.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T15:31:24.472Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XdcYbWet4q-2tesIh_em" version="21.2.0" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="Ge46NEciHBk8_EPWf0s5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-7" target="Ge46NEciHBk8_EPWf0s5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ge46NEciHBk8_EPWf0s5-7" value="Consultar usuário e senha base de dados" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-7" value="Consultar usuário e &lt;br&gt;senha base de dados" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="305" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge46NEciHBk8_EPWf0s5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-11" target="Ge46NEciHBk8_EPWf0s5-5">
