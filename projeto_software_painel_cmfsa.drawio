@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T15:08:18.109Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eBkCY9w2KDZGN-X7oIxW" version="21.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T15:22:58.599Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xlO28kPUjZFrFlRZifAl" version="21.2.0" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-1" value="" style="ellipse;html=1;shape=startState;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="Ge46NEciHBk8_EPWf0s5-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-4" target="Ge46NEciHBk8_EPWf0s5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-4" value="Tela de login&lt;br style=&quot;font-size: 10px;&quot;&gt;(Registro de usuário)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="305" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-5" value="Inicializar Telas&lt;br style=&quot;font-size: 10px;&quot;&gt;(Painel, Retaguarda)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="185" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-7" target="Ge46NEciHBk8_EPWf0s5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-7" value="Consultar usuário e senha base de dados" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="305" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-11" target="Ge46NEciHBk8_EPWf0s5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ge46NEciHBk8_EPWf0s5-15">
+          <mxGeometry x="-0.69" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-11" target="Ge46NEciHBk8_EPWf0s5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-20" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ge46NEciHBk8_EPWf0s5-18">
+          <mxGeometry x="-0.71" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-11" value="True?" style="rhombus;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-17" target="Ge46NEciHBk8_EPWf0s5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-17" value="Warning Dialog&lt;br&gt;(Tela de Falha)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="425" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-21" value="" style="ellipse;html=1;shape=endState;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="620" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
