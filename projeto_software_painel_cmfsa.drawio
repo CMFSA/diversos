@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T15:27:24.889Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="m5ipFH3oM9uiqXyFY6Ix" version="21.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T15:29:53.395Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1m81lxzLCm6klKyFOgBH" version="21.2.0" type="github" pages="4">
   <diagram name="requisitos e funcionalidades" id="45IemXz6j9i4KKmDaBbg">
     <mxGraphModel dx="838" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,6 +31,9 @@
         </mxCell>
         <mxCell id="Ge46NEciHBk8_EPWf0s5-4" value="Tela de login&lt;br style=&quot;font-size: 10px;&quot;&gt;(Registro de usuário)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="305" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge46NEciHBk8_EPWf0s5-5" target="Ge46NEciHBk8_EPWf0s5-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ge46NEciHBk8_EPWf0s5-5" value="Inicializar Telas&lt;br style=&quot;font-size: 10px;&quot;&gt;(Painel, Retaguarda)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="185" y="500" width="120" height="60" as="geometry" />
@@ -68,6 +71,9 @@
         </mxCell>
         <mxCell id="Ge46NEciHBk8_EPWf0s5-21" value="" style="ellipse;html=1;shape=endState;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="470" y="620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge46NEciHBk8_EPWf0s5-23" value="&lt;b&gt;Compor&lt;/b&gt; ou &lt;b&gt;requisitar&lt;/b&gt; nome da Sessão" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="185" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
